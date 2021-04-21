@@ -1,0 +1,9 @@
+{
+  "bidPrice": 58,
+  "bidQuantity": 5000,
+  "expirationInSeconds": 120,
+  "quoteId": "2136540330",
+  "symbol": "LTCUSD",
+  "type": "string",
+  "userId": "t1"
+}

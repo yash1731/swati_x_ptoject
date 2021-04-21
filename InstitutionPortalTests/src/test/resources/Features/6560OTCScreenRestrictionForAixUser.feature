@@ -1,0 +1,1 @@
+# 6560 - Institution Portal - OTC screen restrictions for Internal AiX Users

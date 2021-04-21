@@ -1,0 +1,10 @@
+{
+  "expireInMillis": 120000,
+  "isQuote": false,
+  "price": 58.5,
+  "quantity": 5520,
+  "security": "LTCUSD",
+  "side": "BUY",
+  "timeInForce": "GTT",
+  "trader": "AIX_tester8"
+}

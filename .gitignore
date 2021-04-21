@@ -1,0 +1,19 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+
+target/
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+InstitutionPortalTests/InstitutionPortalTest.iml
+InstitutionPortalTests/target/
+InstitutionPortalTests/.idea/
+AdminConsoleTest/target/
+AdminConsoleTest/.idea/
+.idea/
+E2EServicesTest/.idea/
+E2EServicesTest/target/
+E2EServicesTest/E2EServicesTest.iml
+

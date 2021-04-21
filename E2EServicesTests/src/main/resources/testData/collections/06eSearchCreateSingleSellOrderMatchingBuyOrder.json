@@ -1,0 +1,12 @@
+{
+  "currentDay": true,
+  "isQuote": false,
+  "orderStatuses": [
+    "Executed"
+  ],
+  "price": 57,
+  "quantity": 5620,
+  "security": "LTCUSD",
+  "side": "SELL",
+  "trader": "AIX_tester4"
+}
